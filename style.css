@@ -1,0 +1,12 @@
+span{ 	
+	font-size:20px;
+	color: red;
+	text-decoration: underline; 
+}
+    	body {
+			 text-align: center;
+			 color: white;
+       background-image: url("https://media3.giphy.com/media/Y8ybhoMQg8ZZ6/200w.gif?cid=82a1493bbufp3279j3s61ir94xr71qmn2vkuq3360noosy2t&rid=200w.gif&ct=g")
+			 
+    }
+		<a href=contact.html><span>CONTACT ME</span></a>	
